@@ -1,5 +1,5 @@
 ## Table of Contents
-- [Build Challenge — Java](#build-challenge--java)
+- [Build Challenge - Java](#build-challenge--java)
 - [Deliverables (Checklist)](#deliverables-checklist)
 - [Tech & Requirements](#tech--requirements)
 - [Assignment 1 (Java)](#assignment-1-java)
