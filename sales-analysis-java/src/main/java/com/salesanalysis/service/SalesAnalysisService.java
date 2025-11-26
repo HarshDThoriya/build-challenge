@@ -9,6 +9,18 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
+/**
+ * Pure functions that aggregate sales rows into KPIs.
+ * Keep these side-effect free so they’re easy to test.
+ *
+ * Methods covered by unit tests:
+ * - totalRevenue
+ * - revenueByMonth
+ * - topProductsByRevenue
+ * - topCountriesByRevenue
+ * - averageOrderValue
+ * - topCustomersByRevenue
+ */
 public class SalesAnalysisService {
 
     private final List<SaleRecord> records;

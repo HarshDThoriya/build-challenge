@@ -10,6 +10,18 @@ import java.time.YearMonth;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * Entry point for Assignment 2 (Sales Analysis).
+ * Reads the Online Retail II CSV from resources and prints:
+ * - Total revenue
+ * - Top-10 countries by revenue
+ * - Top-10 products by revenue
+ * - Revenue by month
+ * - Average Order Value
+ * - Top customer by revenue
+ *
+ * Adjust the dataset path or parameters here as needed.
+ */
 public class SalesAnalysisApplication {
 
     public static void main(String[] args) throws IOException {

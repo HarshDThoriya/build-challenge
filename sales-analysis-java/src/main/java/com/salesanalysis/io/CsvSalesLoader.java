@@ -14,6 +14,11 @@ import java.util.List;
 import java.util.Objects;
 import java.util.stream.Collectors;
 
+/**
+ * CSV loader for Online Retail II / superstore-like files.
+ * - Tolerates common header variants (Invoice, Price, Customer_ID, etc.)
+ * - Robust date parsing (supports multiple formats)
+ */
 public class CsvSalesLoader {
 
     private static final DateTimeFormatter DATE_FORMATTER =
