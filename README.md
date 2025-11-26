@@ -53,10 +53,10 @@ This repository contains two assignments.
 
   ```
 
-  ### Output screenshot
+  ### Output screenshot (outputs with queue and wait modes)
   ![Screenshot of the outputs with queue and wait modes](https://github.com/HarshDThoriya/build-challenge/blob/main/producer-consumer-java/assets/Screenshot%202025-11-25%20185151.png)
 
-  ### Test Success screenshot
+  ### Test Success screenshot (unit tests for all running types)
   ![Screenshot of the successful running of tests](https://github.com/HarshDThoriya/build-challenge/blob/main/producer-consumer-java/assets/Screenshot%202025-11-25%20182101.png)
 
 
@@ -98,10 +98,10 @@ This repository contains two assignments.
 
   ```
 
-  ### Output screenshot
+  ### Output screenshot (prints results to console)
   ![Screenshot of the output which prints results to console](https://github.com/HarshDThoriya/build-challenge/blob/main/sales-analysis-java/assets/Screenshot%202025-11-25%20181939.png)
 
-  ### Test Success screenshot
+  ### Test Success screenshot (unit tests for all analysis methods)
   ![Screenshot of the successful runing of unit tests for all analysis methods](https://github.com/HarshDThoriya/build-challenge/blob/main/sales-analysis-java/assets/Screenshot%202025-11-25%20182001.png)
 
 ---
