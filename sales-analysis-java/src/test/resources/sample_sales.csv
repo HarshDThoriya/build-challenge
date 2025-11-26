@@ -1,0 +1,5 @@
+Invoice,StockCode,Description,Quantity,InvoiceDate,Price,Customer ID,Country
+1,SKU1,Product A,2,12/1/2009 7:45,10.00,100,United Kingdom
+1,SKU2,Product B,1,12/1/2009 7:45,5.00,100,United Kingdom
+2,SKU1,Product A,1,12/2/2009 9:15,10.00,101,Germany
+3,SKU3,Product C,3,12/2/2009 10:00,7.50,100,France
