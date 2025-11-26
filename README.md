@@ -1,7 +1,20 @@
-# Build Challenge — Java
+## Table of Contents
+- [Build Challenge — Java](#build-challenge--java)
+- [Deliverables (Checklist)](#deliverables-checklist)
+- [Tech & Requirements](#tech--requirements)
+- [Assignment 1 (Java)](#assignment-1-java)
+  - [Build & Test (Windows)](#build--test-windows)
+  - [Output screenshot (queue & wait)](#output-screenshot-outputs-with-queue-and-wait-modes)
+  - [Test Success screenshot](#test-success-screenshot-unit-tests-for-all-running-types)
+- [Assignment 2 (Java)](#assignment-2-java)
+  - [Build & Test (Windows)](#build--test-windows-1)
+  - [Output screenshot (prints results to console)](#output-screenshot-prints-results-to-console)
+  - [Test Success screenshot (all analysis methods)](#test-success-screenshot-unit-tests-for-all-analysis-methods)
+
+
+# Build Challenge - Java
 
 **Public repo:** https://github.com/HarshDThoriya/build-challenge
-
 
 This repository contains two assignments.
 
@@ -23,7 +36,7 @@ This repository contains two assignments.
 
 ---
 
-- **Assignment 1 (Java)**  
+## Assignment 1 (Java) 
   Two implementations of the classic producer–consumer pattern:
   - `BlockingQueue` (ArrayBlockingQueue)
   - Custom `BoundedBuffer` using `wait/notify`
@@ -36,7 +49,7 @@ This repository contains two assignments.
   - `--mode=queue` → ArrayBlockingQueue  
   - `--mode=wait`  → Custom BoundedBuffer (wait/notify)
 
-  ### Build & Test (windows)
+  ### Build & Test (Windows)
   ```bash
   cd producer-consumer-java
 
@@ -60,7 +73,7 @@ This repository contains two assignments.
   ![Screenshot of the successful running of tests](https://github.com/HarshDThoriya/build-challenge/blob/main/producer-consumer-java/assets/Screenshot%202025-11-25%20182101.png)
 
 
-- **Assignment 2 (Java)**  
+## Assignment 2 (Java)
   Reads a “superstore / Online Retail II” CSV and performs analytics:
   - Total revenue
   - Top-10 Countries by revenue
@@ -84,7 +97,7 @@ This repository contains two assignments.
   sales-analysis-java/src/test/resources/sample_sales.csv
   ```
 
-  ### Build & Test (windows)
+  ### Build & Test (Windows)
   ```bash
   cd sales-analysis-java
 
@@ -102,7 +115,7 @@ This repository contains two assignments.
   ![Screenshot of the output which prints results to console](https://github.com/HarshDThoriya/build-challenge/blob/main/sales-analysis-java/assets/Screenshot%202025-11-25%20181939.png)
 
   ### Test Success screenshot (unit tests for all analysis methods)
-  ![Screenshot of the successful runing of unit tests for all analysis methods](https://github.com/HarshDThoriya/build-challenge/blob/main/sales-analysis-java/assets/Screenshot%202025-11-25%20182001.png)
+  ![Screenshot of the successful running of unit tests for all analysis methods](https://github.com/HarshDThoriya/build-challenge/blob/main/sales-analysis-java/assets/Screenshot%202025-11-25%20182001.png)
 
 ---
 
